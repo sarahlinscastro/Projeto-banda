@@ -1,0 +1,27 @@
+
+.capa{
+   margin-left: 30%;
+
+}
+.sobre{
+    margin-left: 30%;
+}
+.musicas{
+    margin-left: 30%;
+}
+.clipes{
+    margin-left: 30%;
+}
+.imagem{
+    margin-left: 30%;
+}
+.text{
+    position: absolute;
+    font-size: 30px;
+    margin-left: 38%;
+    background: rgb(172, 221, 243);
+    width: 160px;
+    text-align: center;
+    top: 8.5rem;
+    
+}
